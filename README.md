@@ -62,10 +62,3 @@ Git · Docker · Linux · Visual Studio Code
     </td>
   </tr>
 </table>
-
----
-
-<p align="center">
-  <em>Always learning. Building with purpose.</em><br/>
-  <img src="https://komarev.com/ghpvc/?username=Huuquan1602&style=flat-square&color=0F766E&label=Profile+views" alt="Profile views" />
-</p>
