@@ -19,7 +19,6 @@
 ```yaml
 name: Atticus Nguyen
 role: Software Engineer — Backend
-based_in: Ha Noi, Viet Nam
 focus:
   - Backend services with C#, .NET, SQL Server and the cloud
   - Distributed systems, databases, storage and concurrency
