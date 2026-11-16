@@ -29,11 +29,14 @@ ask_me_about: [backend engineering, system design, anything tech]
 
 ## 🛠️ Tech stack
 
-| Area | Technologies |
-| --- | --- |
-| **Languages & frameworks** | C# · .NET · C++ · Python · TypeScript · Angular |
-| **Data & cloud** | SQL Server · Redis · AWS · Azure |
-| **Tools** | Git · Docker · Linux · Visual Studio Code |
+**Languages & frameworks**  
+C# · .NET · C++ · Python
+
+**Data & cloud**  
+SQL Server · Redis · AWS · Azure
+
+**Tools**  
+Git · Docker · Linux · Visual Studio Code
 
 ## 🚀 Featured projects
 
