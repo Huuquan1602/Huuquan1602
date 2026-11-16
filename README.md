@@ -31,6 +31,11 @@ SQL Server · Redis · AWS · Azure
 **Tools**  
 Git · Docker · Linux · Visual Studio Code
 
+### Projects
+
+- 🤖 **[rag-assistant](https://github.com/Huuquan1602/rag-assistant)**: A RAG-powered knowledge assistant that turns internal PDFs and websites into contextual answers using a local LLM, with clear source citations.
+- 🎧 **[soundcloud-clone](https://github.com/Huuquan1602/soundcloud-clone)**: A SoundCloud-style music streaming web app built with Angular and TypeScript.
+
 ---
 
 <p align="center">
