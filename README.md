@@ -30,11 +30,11 @@ ask_me_about: [backend engineering, system design, anything tech]
 
 ## 🛠️ Tech stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,cpp,python,ts,angular&perline=6" alt="Languages and frameworks" /><br/>
-  <img src="https://skillicons.dev/icons?i=redis,aws,azure,docker,linux,git,vscode&perline=7" alt="Data, cloud and tools" /><br/>
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
-</p>
+| Area | Technologies |
+| --- | --- |
+| **Languages & frameworks** | C# · .NET · C++ · Python · TypeScript · Angular |
+| **Data & cloud** | SQL Server · Redis · AWS · Azure |
+| **Tools** | Git · Docker · Linux · Visual Studio Code |
 
 ## 🚀 Featured projects
 
