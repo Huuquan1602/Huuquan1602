@@ -23,7 +23,6 @@ focus:
   - Backend services with C#, .NET, SQL Server and the cloud
   - Distributed systems, databases, storage and concurrency
   - Reliability, performance and asynchronous processing
-currently: Building a RAG assistant and an Angular music app
 ask_me_about: [backend engineering, system design, anything tech]
 ```
 
